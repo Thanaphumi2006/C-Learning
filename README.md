@@ -1,4 +1,4 @@
-# 🎓 Welcome to C Programming: The Zero-to-Hero Course
+# Welcome to C Programming: The Zero-to-Hero Course
 
 Welcome! This repository is designed to teach you the C programming language using **VS Code**. 
 
@@ -6,7 +6,7 @@ Unlike a boring textbook, this course is interactive. You will read code, break 
 
 ---
 
-## 🛠️ Prerequisites (Install These First)
+## Prerequisites (Install These First)
 
 Before you start Lesson 1, make sure you have these tools ready:
 
@@ -23,7 +23,7 @@ Before you start Lesson 1, make sure you have these tools ready:
 
 ---
 
-## 📂 How This Course is Structured
+## How This Course is Structured
 
 Each folder in this repository represents one week or topic (e.g., `Mission_01_Sensor_Calibration`). inside each folder, you will find 4 specific steps:
 
@@ -76,7 +76,7 @@ Each folder in this repository represents one week or topic (e.g., `Mission_01_S
 ---
 
 
-## 🚀 The Workflow: How to Study
+## The Workflow: How to Study
 
 ### Step 1: Open the Lesson
 Open `Lesson_01_Variables/1_lecture.c` in VS Code. Read the green comments—they explain *why* we are doing things.
