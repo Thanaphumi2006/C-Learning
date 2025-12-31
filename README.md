@@ -36,6 +36,46 @@ Each folder in this repository represents one week or topic (e.g., `Mission_01_S
 
 ---
 
+# 🪐 Mars Rover Mission: C Programming Course Syllabus
+
+**Mission Objective:** Master the C programming language by building the operating system for the "Pathfinder" Mars Rover.
+**Prerequisites:** None. (Just a text editor and a compiler).
+
+---
+
+## 🟢 Phase 1: The Awakening (Basics)
+
+| Mission ID | Title | Concept | Story Objective |
+| :--- | :--- | :--- | :--- |
+| **Mission 01** | **Establish Link** | `printf`, Variables | Boot up the Rover's main CPU and transmit the first signal ("Hello Mars"). |
+| **Mission 02** | **Navigation Systems** | `if`, `else`, Logic | Program the hazard avoidance system to detect rocks vs. clear paths. |
+| **Mission 03** | **Automation** | Loops (`while`, `for`) | Automate the solar panel deployment sequence using countdown loops. |
+| **Mission 04** | **Modular Systems** | Functions | Create reusable "tools" to calculate distance and battery usage. |
+
+---
+
+## 🟡 Phase 2: Discovery & Mapping (Data Handling)
+
+| Mission ID | Title | Concept | Story Objective |
+| :--- | :--- | :--- | :--- |
+| **Mission 05** | **Terrain Analysis** | Arrays (Lists) | Process a list of elevation data to find the highest peak in the sector. |
+| **Mission 06** | **Data Logging** | File I/O (`fopen`) | **EMERGENCY:** Save vital sensor data to a text file before the battery dies. |
+| **Mission 07** | **Grid Navigation** | 2D Arrays (Matrices) | Scan a satellite grid map to locate hidden alien artifacts. |
+| **Mission 08** | **Secure Comm-Link** | Strings (`<string.h>`) | Verify security credentials using text comparison to prevent hacking. |
+
+---
+
+## 🔴 Phase 3: Advanced Systems (Memory & Logic)
+
+| Mission ID | Title | Concept | Story Objective |
+| :--- | :--- | :--- | :--- |
+| **Mission 09** | **Hardware Access** | Pointers (`&` Address) | Hack the memory directly to fix a crossed-wire engine glitch. |
+| **Mission 10** | **The Command Center** | Capstone Project | Build the interactive Main Menu using Switch statements and Loops. |
+| **Mission 11** | **Chaos Theory** | Randomness (`rand`) | Simulate unpredictable meteor showers to test the shield logic. |
+
+---
+
+
 ## 🚀 The Workflow: How to Study
 
 ### Step 1: Open the Lesson
