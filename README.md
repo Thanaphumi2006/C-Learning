@@ -88,21 +88,32 @@ Download the extensions from VS code by type : franneck94.c-cpp-runner to be abl
 If some file not work just try to save it first Or try to use command in terminal by type "cd ../FOLDERNAME" (eg : cd ../Mission_03_Autonomous_Loops)
 Have fun learning C-Programming language the next file will be the story theme for this C course, making it more fun to learn (I think), NOW YOU CAN CONTINUED TO (Read_Story.md)
 
-## 2. Using Git
+##  Using Git
 
 **Note:** Only Windows (10/11) OS does not have Git pre-installed. You can install it here:  
 👉 [Install Git Guide](https://github.com/git-guides/install-git)
 
-> **💡 Pro Tip:** I highly recommend setting this up if you are interested in **CPEN, ELEC, or BMEG**, as you will inevitably be using Git in future classes!
+
+
+##  Using Git 
+
+**Note for Windows Users:** Git is not pre-installed on Windows 10/11. You will need to download it here: [Git Guide & Download](https://github.com/git-guides/install-git)
+
+
 
 ### How to Clone the Repository
-For those who want to use their own IDE (VSCode, Visual Studio, CodeBlocks, etc.):
+If you want to run this code locally on your own computer (using VS Code, Visual Studio, CodeBlocks, etc.), follow these steps:
 
-1.  Click the green **<> Code** button at the top of this GitHub page.
+1.  Click the green **<> Code** button at the top of this repository page.
 2.  **Copy** the HTTPS link provided.
-3.  Navigate to your folder of choice on your computer.
-4.  Open your **Terminal**, **Command Prompt**, or **Git Bash**.
-5.  Clone the repository by typing `git clone` followed by the link you just copied:
+3.  Open your **Terminal** (Mac/Linux), **Command Prompt** (Windows), or **Git Bash**.
+4.  Navigate to the folder where you want to save the project (e.g., `cd Desktop`).
+5.  Run the clone command:
+    ```bash
+    git clone [PASTE THE LINK YOU COPIED]
+    ```
 
-```bash
-git clone [THE LINK YOU JUST COPIED]
+**Next Steps:**
+Open the newly created folder in your IDE and run the code from there!
+
+*I personally use **Visual Studio Code (VSCode)**, but you can use any IDE you like.* [📄 Visual Studio Code C/C++ Guide](https://code.visualstudio.com/docs/languages/cpp)
