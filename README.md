@@ -88,10 +88,7 @@ Download the extensions from VS code by type : franneck94.c-cpp-runner to be abl
 If some file not work just try to save it first Or try to use command in terminal by type "cd ../FOLDERNAME" (eg : cd ../Mission_03_Autonomous_Loops)
 Have fun learning C-Programming language the next file will be the story theme for this C course, making it more fun to learn (I think), NOW YOU CAN CONTINUED TO (Read_Story.md)
 
-##  Using Git
 
-**Note:** Only Windows (10/11) OS does not have Git pre-installed. You can install it here:  
-👉 [Install Git Guide](https://github.com/git-guides/install-git)
 
 
 
