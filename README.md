@@ -87,3 +87,22 @@ Download the extensions from VS code by type : franneck94.c-cpp-runner to be abl
 ### Final thought
 If some file not work just try to save it first Or try to use command in terminal by type "cd ../FOLDERNAME" (eg : cd ../Mission_03_Autonomous_Loops)
 Have fun learning C-Programming language the next file will be the story theme for this C course, making it more fun to learn (I think), NOW YOU CAN CONTINUED TO (Read_Story.md)
+
+## 2. Using Git
+
+**Note:** Only Windows (10/11) OS does not have Git pre-installed. You can install it here:  
+👉 [Install Git Guide](https://github.com/git-guides/install-git)
+
+> **💡 Pro Tip:** I highly recommend setting this up if you are interested in **CPEN, ELEC, or BMEG**, as you will inevitably be using Git in future classes!
+
+### How to Clone the Repository
+For those who want to use their own IDE (VSCode, Visual Studio, CodeBlocks, etc.):
+
+1.  Click the green **<> Code** button at the top of this GitHub page.
+2.  **Copy** the HTTPS link provided.
+3.  Navigate to your folder of choice on your computer.
+4.  Open your **Terminal**, **Command Prompt**, or **Git Bash**.
+5.  Clone the repository by typing `git clone` followed by the link you just copied:
+
+```bash
+git clone [THE LINK YOU JUST COPIED]
