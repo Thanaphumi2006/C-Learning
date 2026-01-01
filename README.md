@@ -92,7 +92,7 @@ Have fun learning C-Programming language the next file will be the story theme f
 
 
 
-##  Using Git 
+##  Using Git (Download these code)
 
 **Note for Windows Users:** Git is not pre-installed on Windows 10/11. You will need to download it here: [Git Guide & Download](https://github.com/git-guides/install-git)
 
